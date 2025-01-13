@@ -14,14 +14,6 @@
     margin-top: 15%;
     color: black;
 }
-.tt{
-    margin-top: 15%;
-   
-}
-.ttt{
-    margin-top: 15%;
-    margin-left: 45%;
-}
 
 .m{
     margin-top: 5%;
@@ -32,41 +24,41 @@
     font-family: 'Times New Roman', Times, serif;
     margin-top: 7%;
     text-align: center;
-    font-size: 85px;
+    font-size: 45px;
     margin-bottom: -19px;
+    letter-spacing: 4px;
 }
 .b{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    font-size: 85px;
+    font-size: 45px;
+    letter-spacing: 4px;
 }
 .c{
-    margin-top: 2%;
+    margin-top: 1%;
     text-align: center;
-    font-size: 25px;
+    font-size: 18px;
 }
 .d{
     margin-top: 2%;
     text-align: center;
-    border: 5px;
+    
 }
 .btn{
     color: white;
     background-color: rgb(0, 0, 0);
-    size: 25px;
+    size: 10px;
 }
 .btn:hover{
     color: rgb(0, 0, 0);
     background-color: rgb(145, 145, 145);
 }
 .e{
-    font-size: 25px;
-    /* margin-top: -5px;
-    margin-bottom: -5px; */
+    font-size: 15px;
     margin-top: 3%;
     margin-bottom: 3%;
-    margin-left: 75px;
-    margin-right: 75px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 .img{
     margin-left: 10%;
@@ -90,17 +82,15 @@
     height: 600px;
     display: block;
 }
-.l{
+.icon{
     margin-top: 5%;
     margin-left: 60%;
 }
 .bi{
-    /* margin-top: 50%; */
     margin-left: 10%;
 }
 .large-icon {
-    font-size: 30px; /* Adjust size as needed (e.g., 2rem = 32px, 3rem = 48px) */
-    color: inherit;  /* Optional: Set a color for the icon */
+    font-size: 24px; 
 }
 
 .img2-width{
@@ -108,7 +98,7 @@
     margin-left: 9%;
     margin-right: 4%;
     width: 83%;
-    height: 700px;
+    height: 500px;
     display: block;
 } 
 
@@ -117,8 +107,11 @@
     margin-left: 10%;
     margin-right: 10%;
     width: 100%;
-    height: 500px;
-    display: block;
+    height: 100px;
+    display: block; 
+}
+.img3-width{
+   height: 200px;
 }
 
 
@@ -133,7 +126,7 @@
     margin-bottom: 4%;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    font-size: 60px;
+    font-size: 40px;
 }
 
 .image-row {
@@ -145,7 +138,6 @@
 
 .col img {
     width: 100%;            
-    /* max-width: 800px;         */
     height: 650px;            
 }
 
@@ -154,40 +146,38 @@
     margin-top: 2%;
     margin-bottom: 4%;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 35px;
+    font-size: 24px;
 }
 .g{
     margin-top: 7%;
     text-align: center;
-    font-size: 75px;
+    font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
 }
 .h{
-    margin-top: -30px;
+    margin-top: -10px;
     margin-bottom: 7%;
     text-align: center;
-    font-size: 75px;
+    font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
 }
 .i{
     margin-left: 10%;
     margin-top: 3%;
-    font-size: 70px;
+    font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
 }
 .iii{
     margin-left: 10%;
     margin-top: 8%;
     margin-bottom: 3%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 35px;
+    font-size: 22px;
 }
 .j{
     margin-left: 10%;
-    margin-top: 4%;
+    margin-top: 7%;
     margin-bottom: 4%;
-    font-size: 35px;
-
+    font-size: 22px;
 }
 
 .btn2{
@@ -214,12 +204,17 @@
     height: 450px;
     width: 100%;
 }
-
+/* .pp{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    background-color: lightgray;
+} */
 
  .hk{
     margin-left: 10%;
     margin-top: 3%;
-    font-size: 50px;
+    font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -244,7 +239,7 @@
   .hero-image1{
     background-image: url("./images/BBimage3.avif");
     margin-top: 11rem;
-    height:30rem;
+    height:25rem;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -254,7 +249,7 @@
   .hero-image2{
     background-image: url("./images/BBimage.jpeg");
     margin-top: 11rem;
-    height:30rem;
+    height:25rem;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -264,7 +259,7 @@
   }
 
 .mm{
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 3%;
     margin-left: 19%;
     
@@ -276,9 +271,9 @@
     font-family: 'Times New Roman', Times, serif;
 }
 .nn h2{
-    font-size: 50px;
+    font-size: 35px;
     font-family: 'Times New Roman', Times, serif;
-    letter-spacing: 5px;
+    letter-spacing: 2px;
 }
 
 .nnn{
@@ -289,7 +284,7 @@
     
 }
 .mmm{
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 3%;
     margin-left: 2%;
 }  
@@ -297,27 +292,26 @@
     margin-top: -2%;
 }
 .nnn h2{
-    /* margin-top: 2%; */
-    /* margin-left: 2%; */
+    
     font-family: 'Times New Roman', Times, serif;
-    font-size: 50px;
-    letter-spacing: 5px;
+    font-size: 35px;
+    letter-spacing: 2px;
 }
   .hero-text {
     text-align: center;
     position: relative;
     top: 65%;
-    left: 73.05%;
+    left: 72.05%;
     transform: translate;
     color: black;
     background-color: white;
-    width: 15rem;
+    width: 10rem;
     padding:.4rem 0rem;
     margin-top: 5%;
   }
   .hero-text p{
-    font-size: 20px;
-    margin-left: -25%;
+    font-size: 17px;
+    margin-left: -10%;
     margin-top: 10%;
   }
   .hero-text h1{
